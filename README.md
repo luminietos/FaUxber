@@ -11,8 +11,8 @@ This is an Uber clone based on Sangha's tutorial, where the user can insert poin
 * [Tailwind CSS](https://tailwindcss.com/docs/installation)
 * [Redux](https://redux.js.org/)
 * APIs:
-        * The [Google Directions API]()
-        * The [Google Places API]()
-        * The [Distance Matrix API]()
+   - The [Google Directions API]()
+   - The [Google Places API]()
+   - The [Distance Matrix API]()
 ## Status
 The development of this project is complete for the foreseeable future. 
