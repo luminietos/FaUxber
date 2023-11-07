@@ -10,9 +10,9 @@ This is an Uber clone based on Sangha's tutorial, where the user can insert poin
 * [React Native](https://reactnative.dev/docs/environment-setup) & [React](https://react.dev/learn) (RN elements, RN maps, React navigation, etc.)
 * [Tailwind CSS](https://tailwindcss.com/docs/installation)
 * [Redux](https://redux.js.org/)
-* APIs
-        *The [Google Directions API]()
-        *The [Google Places API]()
-        *The [Distance Matrix API]()
+* APIs:
+        * The [Google Directions API]()
+        * The [Google Places API]()
+        * The [Distance Matrix API]()
 ## Status
 The development of this project is complete for the foreseeable future. 
